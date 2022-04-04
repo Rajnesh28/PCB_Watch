@@ -18,4 +18,4 @@ And more so you can make your own electronic watch, and hopefully improve on the
 
 Current draft schematic below, once numbers are in, will put in an order for the PCB.
 
-![image](https://user-images.githubusercontent.com/75357193/161484519-8c200454-0277-4382-8acd-5ba6841fedde.png)
+![image](https://user-images.githubusercontent.com/75357193/161484678-f22dca9d-06e3-4754-b73a-269ed3e9f2e3.png)
