@@ -8,9 +8,14 @@
 - ATMega88 controls these two peripherals on an I2C bus, gets time from RTC, and provides it to the display.
 - Programmed with external ISP connection
 
-For your own knowledge, I provide a detailed explanation of 
+For your own knowledge, I will provide a detailed explanation of 
 - Schematic and PCB
 - Design Choices
 - Calculations
+- How to do Bare-Metal Programming
 
 And more so you can make your own electronic watch, and hopefully improve on the design.
+
+Current draft schematic below, once numbers are in, will put in an order for the PCB.
+
+![image](https://user-images.githubusercontent.com/75357193/161484519-8c200454-0277-4382-8acd-5ba6841fedde.png)
